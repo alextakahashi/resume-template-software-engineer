@@ -27,13 +27,13 @@ www.website.com | github.com/myusername | linkedin.com/myusername
 * ...
 
 ## PROJECTS
-**Project Name**: *Brief Description of Project* ... *Month 20XX - Month 20XX*
+**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
 * Developed PROJECT NAME in order to FEATURE solving PROBLEM for POPULATION
 * Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
 * Beta Tested to X Number of users and collected Crash Data using analytics LIBRARY
 * ...
 
-**Project Name**: *Brief Description of Project* ... *Month 20XX - Month 20XX*
+**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
 * Contributed to OPEN SOURCE LIBRARY, a popular module for FEATURE, by closing X tasks and merging Y Pull Requests.
 * Created Demo Tutorial series to demonstrate FEATURE for early adopters prior to production push.
 * Managed App Version release cycles to maintain proper software versioning for major and minor app increments.
