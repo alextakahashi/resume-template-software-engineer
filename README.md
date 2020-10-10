@@ -15,6 +15,12 @@ Resumes have the highest *False Negative* Rate of the entire recruitment process
 2. ✅ Update `resume.md` with your resume content.
 3. ✅ Create a Pull Request to *request feedback*
 
+![Open Pull Request](OpenPullRequest.png)
+
+4. ✅ Receive Feedback!
+
+![Receive Feedback](ReceiveFeedback.png)
+
 > Disclaimer - user personal contact sparigingly!  Please feel free to leave contact information as dummy content.
 
 ## 🤔 Why Use this Repo?
