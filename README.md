@@ -8,7 +8,7 @@ Resumes have the highest *False Negative* Rate of the entire recruitment process
 
 ## 🔨 How to Use this Template + Request Feedback
 
-1. ✅ [Fork this repo](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
+1. ✅ Fork this repo - [Documentation](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
 
 ![How to Fork Repo](HowToForkRepo.png)
 
