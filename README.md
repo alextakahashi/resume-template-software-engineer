@@ -1,6 +1,6 @@
 # 📝 Software Engineer Resume *Content* Template
 
-![Resume Template Screenshot Dark](ResumeTemplateScreenshotDark.png)
+![Resume Template Screenshot Dark](assets/ResumeTemplateScreenshotDark.png)
 
 > TL;DR - **Content Template** for your Software Engineering Resume.  Structure your experiences to **emphasize impact** and **convince the reader why you're a prime candidate**.  Make a Pull Request to request for a review form me 😁!
 
