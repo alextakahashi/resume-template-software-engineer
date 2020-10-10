@@ -1,4 +1,4 @@
-* # FIRST LAST NAME
+* # JOSHUA FAJARDO
 
   (123) 456 - 789| email@gmail.com
 
@@ -6,27 +6,27 @@
 
   ## EDUCATION
 
-  **University of California, Berkeley** | B.S. Electrical Engineering & Computer Sciences | GPA: 3.71																				   *FALL 2021*
+  **University of California, Berkeley** | B.S. Electrical Engineering & Computer Sciences | GPA: 3.71 ... *FALL 2021*
 
   * **Coursework**: Data Structures, Algorithms, Machine Structures, Statistics & Probability, Linear Algebra, Multivariable Calculus, Optimization,
 
   ## SKILLS
 
   * **Languages**: Python, Java, C, SQL, JavaScript, HTML, CSS, MATLAB, Arduino,
-  * **Libraries/Frameworks**: ReactJS, NumPy, Socket, Socket.IO, Tkinter,
-  * **Version Control**: Git, GithubDesktop
+  * **Frameworks and Tools**: ReactJS, Threading, Git, NumPy, Socket, Socket.IO, Tkinter,
 
   ## EXPERIENCE
 
-  **Undergraduate Researcher**: Embodied Dexterity Group| Berkeley, CA																									   *November 2019 - Present*
+  **Undergraduate Researcher, Software/Hardware**: Embodied Dexterity Group| Berkeley, CA ... *November 2019 - Present*
 
-  * Designed a physics engine & GUI to interface with 
-  * 
-  * virtual environment for usage in clinical trials to assess the usefulness of haptic feedback in upper-limb prosthetic devices. Collaborate with lead researcher to tailor the physics engine and API endpoints to our needs.
-  * Implemented XYZ Microservice using TECHNOLOGY to delivery PRODUCT to 123 Customers Globally
-  * Architected CORE INFRASTRUCTURE LIBRARY used across X teams to BLAH BLAH
-  * I did X for Y to accomplish Z
-  * ...
+  * Led team of 3 in designing a physics engine and GUI in Python to interface with a prosthetic arm. Incorporated the Model/View/Controller (MVC) design pattern to organize functions and methods.
+  * Established TCP connection with LabVIEW program using Python's socket library to ensure the simulation was sufficiently accurate for use in research.
+  * Utilized multithreading to run communication/physics and GUI processing in parallel, allowing the GUI to run at a consistent framerate.
+
+  **Lead Machinist**: FIRST Robotics Competition Team 687 | Carson, CA ... *June 2015 - May 2018*
+
+  * Trained members on G-Code programming and proper manufacturing techniques to help them grow as engineers.
+  * Improved organization methods to streamline the machining process and increase team communication for faster production times.
 
   **Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
 
@@ -36,7 +36,7 @@
 
   ## PROJECTS
 
-  **Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
+  **Heal-Bot**: *The Quarantine Companion & Aide* | heal-bot.netlify.app ... *June 2020*
 
   * Developed PROJECT NAME in order to FEATURE solving PROBLEM for POPULATION
   * Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
@@ -50,13 +50,7 @@
   * Managed App Version release cycles to maintain proper software versioning for major and minor app increments.
   * ...
 
-  ## AWARDS/ACKNOWLEDGEMENTS
-
-  * **COLLEGE Alumni Scholarship Recipient** - Alumni Scholarship Committee... *Month 20XX*
-  * **1st Place Best Hack** - Hackathon Event... *Month 20XX*
-
   ## Events/Conferences
 
-  * **Cal Hacks 7.0 (remote)** - Berkeley, CA ... *Month 20XX*
-  * **Cal Hacks 6.0** - Berkeley, CA ... *Month 20XX*
-  * **WWDC 2019** - San Jose, CA ... *Month 20XX*
+  * **Facebook Hackathon: AI** - Online ... *June 2020*
+  * **Cal Hacks 6.0** - Berkeley, CA ... *October 2019*
