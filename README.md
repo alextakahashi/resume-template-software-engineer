@@ -9,6 +9,9 @@ Resumes have the highest *False Negative* Rate of the entire recruitment process
 ## 🔨 How to Use this Template + Request Feedback
 
 1. ✅ Fork this repo
+
+![How to Fork Repo](HowToForkRepo.png)
+
 2. ✅ Update `resume.md` with your resume content.
 3. ✅ Create a Pull Request to *request feedback*
 
