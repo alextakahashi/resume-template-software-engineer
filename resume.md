@@ -1,11 +1,11 @@
-# FIRST LAST NAME
+# Alex Takahashi
 
 (123) 456 - 7890 | email@gmail.com
 
-www.website.com | github.com/myusername | linkedin.com/myusername
+alextakahashi.github.io | github.com/alextakahashi | inkedin.com/in/alextakahashi/
 
 ## EDUCATION
-**University of College** | B.S. Degree ... *MONTH 20XX*
+**University of California Berkeley** | B.S. Bioengineering, Computer Science Minor ... *May 2017*
 * **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
 
 ## SKILLS
