@@ -10,16 +10,16 @@ Resumes have the highest *False Negative* Rate of the entire recruitment process
 
 1. ✅ Fork this repo - [Documentation](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo)
 
-![How to Fork Repo](HowToForkRepo.png)
+![How to Fork Repo](assets/HowToForkRepo.png)
 
 2. ✅ Update `resume.md` with your resume content.
 3. ✅ Create a Pull Request to *request feedback*
 
-![Open Pull Request](OpenPullRequest.png)
+![Open Pull Request](asset/sOpenPullRequest.png)
 
 4. ✅ Receive Feedback!
 
-![Receive Feedback](ReceiveFeedback.png)
+![Receive Feedback](assets/ReceiveFeedback.png)
 
 > Disclaimer - user personal contact sparigingly!  Please feel free to leave contact information as dummy content.
 
