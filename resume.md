@@ -28,17 +28,14 @@
   * Trained members on G-Code programming and proper manufacturing techniques to help them grow as engineers.
   * Improved organization methods to streamline the machining process and increase team communication for faster production times.
 
-  **Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
-
-  * Conducted A/B Test using FRAMEWORK to test EXPERIENCE in order to increase METRIC resulting in NUMBER. 
-  * Utilized DEBUG TECHNOLOGY to resolve recurring crashes (X% of sessions) in beta before hitting production..
-  * ...
-
   ## PROJECTS
 
   **Heal-Bot**: *The Quarantine Companion & Aide* | heal-bot.netlify.app ... *June 2020*
 
-  * Developed PROJECT NAME in order to FEATURE solving PROBLEM for POPULATION
+  * Developed Heal-Bot in order to provide pandemic information and support, tackling many of the lifestyle changes for those in quarantine.
+  * Made API calls to wit.ai to seamlessly interpret human responses.
+  * Worked on Full Stack development to deploy Heal-Bot to the web using Netlify and Heroku.
+  * 
   * Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
   * Beta Tested to X Number of users and collected Crash Data using analytics LIBRARY
   * ...
