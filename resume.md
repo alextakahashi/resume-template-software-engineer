@@ -1,49 +1,47 @@
-# FIRST LAST NAME
+# Daniel Qian
 
-(123) 456 - 7890 | email@gmail.com
+(925) 922 - 4281 | danielq3@illinois.edu
 
-www.website.com | github.com/myusername | linkedin.com/myusername
+github.com/DAQIANN | linkedin.com/danielq5/
 
 ## EDUCATION
-**University of College** | B.S. Degree ... *MONTH 20XX*
-* **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
-
-## SKILLS
-* **Languages**: Python, Java, C, SQL, ...
-* **Libraries/Frameworks**: Pandas, TensorFlow, PyTorch, ...
-* **Version Control**: Git, Bitbucket, Sourcetree, GithubDesktop
-* *...*
+**University of Illinois Urbana Champaign** *May 2023* *GPA 3.89* *Dean's List*
+* Bachelor of Science in Mathematics and Computer Science 
+* Minor in Statistics 
+* **Coursework**: Data Structures, Numerical Methods I, Software Design Studio, Discrete Structures, Introduction to Computer Science, Linear Algebra, Statistical Analysis, Statistics and Probability I
 
 ## EXPERIENCE
-**Software Engineer**: Company | City, State ... *Month 20XX - Present*
-* Implemented XYZ Microservice using TECHNOLOGY to delivery PRODUCT to 123 Customers Globally
-* Architected CORE INFRASTRUCTURE LIBRARY used across X teams to BLAH BLAH
-* I did X for Y to accomplish Z
-* ...
+**CS 128 Course Assistant**: *September 2020 - Present*
+* Course assistant for CS 128, a new core Computer Science class to be implemented Spring 2021
+* Developed engaging assignments in C++ for future students
+* Worked cohesively with other assistants to produce the course material
 
-**Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
-* Conducted A/B Test using FRAMEWORK to test EXPERIENCE in order to increase METRIC resulting in NUMBER. 
-* Utilized DEBUG TECHNOLOGY to resolve recurring crashes (X% of sessions) in beta before hitting production..
-* ...
+**Sandia National Laboratories Space Blimp Challenge**: *November 2019*
+* Led team that developed new software that improves the management of experimental flight data 
+* Effectively utilized Java to parse through given data for maximum time efficiency
 
-## PROJECTS
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Developed PROJECT NAME in order to FEATURE solving PROBLEM for POPULATION
-* Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
-* Beta Tested to X Number of users and collected Crash Data using analytics LIBRARY
-* ...
+**Alameda County and Engineering Fair**: *April 2018*
+* Presented a research study focused on Artificial Intelligence technologies and Machine Learning to industry professionals
+* Analyzed Artificial Intelligence services such as Amazon Rekognition Services, Google Cloud Vision Service, Microsoft’s Cognitive Services Vision and Face on their image correctness, accuracy, and comprehensiveness 
 
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Contributed to OPEN SOURCE LIBRARY, a popular module for FEATURE, by closing X tasks and merging Y Pull Requests.
-* Created Demo Tutorial series to demonstrate FEATURE for early adopters prior to production push.
-* Managed App Version release cycles to maintain proper software versioning for major and minor app increments.
-* ...
+## LEADERSHIP/ACTIVITIES
+**Illinois Formula Electric**: *August 2020 - Present*
+* Member of the Data Acquisition Analysis (DAQA) subsystem
+* Worked collaboratively with clubmates to enhance data visualization by using Python
 
-## AWARDS/ACKNOWLEDGEMENTS
-* **COLLEGE Alumni Scholarship Recipient** - Alumni Scholarship Committee... *Month 20XX*
-* **1st Place Best Hack** - Hackathon Event... *Month 20XX*
+**Special Interest Group in Security (SIGPWNY)**: *August 2020 - Present*
+* Engaged in presentations focused around information security fundamentals
+* Competed in Capture The Flag cyber competitions
 
-## Events/Conferences
-* **Cal Hacks 7.0 (remote)** - Berkeley, CA ... *Month 20XX*
-* **Cal Hacks 6.0** - Berkeley, CA ... *Month 20XX*
-* **WWDC 2019** - San Jose, CA ... *Month 20XX*
+**Special Interest Group Artificial Intelligence and Data Analytics (SIGAIDA)**: *October 2019 - Present*
+* Participated in comprehensive workshops focused around the applications of Machine Learning and Artificial Intelligence within the tech world
+* Gained experience with the use of PyTorch for neural network training 
+* Managing NLP Chatbot project written in Python
+
+**Special Interest Group Programing Languages (SIGPLAN)**: *October 2019 - Present*
+* Worked with students to reinforce knowledge of several high-level programming languages and algorithms 
+
+## SKILLS
+* Java, C/C++, Python, Linux, MySQL, MongoDB, Spring Boot
+* Fluent in Mandarin Chinese
+* Microsoft Office (Word, Excel, Powerpoint) and Google Drive (Docs, Slides, Sheets)
