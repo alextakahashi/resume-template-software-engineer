@@ -1,49 +1,46 @@
-# FIRST LAST NAME
+Objective
+--------------------------------------------------------
+To obtain an entry-level position in software engineering in order to obtain industry experience, expand my knowledge, and maximize my skillset.
 
-(123) 456 - 7890 | email@gmail.com
+Education
+--------------------------------------------------------
+University of Southern California, Los Angeles CA	Aug 2017 – June 2021 (Expected)
+Bachelor of Science, Mechanical Engineering
+Minor in Computer Programming
+GPA: 3.47, Dean’s List: 2 semesters	
+Computer Science Coursework: Programming Systems Design  •  Analysis of Algorithms
 
-www.website.com | github.com/myusername | linkedin.com/myusername
+Programming Skills
+--------------------------------------------------------
+Languages: C++  •  Java •  HTML  •  CSS  •  PHP  •  JavaScript  •  SQL  •  MATLAB
+Technologies: React •  Bootstrap  •  MongoDB  •  AWS  •  Git  •  Siemens NX  
 
-## EDUCATION
-**University of College** | B.S. Degree ... *MONTH 20XX*
-* **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
+Experience
+--------------------------------------------------------
+Teaching Assistant	Aug 2019 – present
+USC Viterbi School of Engineering	Los Angeles, CA
+•	Assisted two professors for Object Oriented Programming and Professional C++
+•	Administered weekly office hours which improved debugging and communication skills
 
-## SKILLS
-* **Languages**: Python, Java, C, SQL, ...
-* **Libraries/Frameworks**: Pandas, TensorFlow, PyTorch, ...
-* **Version Control**: Git, Bitbucket, Sourcetree, GithubDesktop
-* *...*
+Enterprise Applications Intern	June 2019 – Oct 2019
+Los Angeles Unified School District	Los Angeles, CA
+•	Consulted the Information Technology Desk Department and managed their pages using HTML, CSS, and JS to ensure responsive design and ADA compliancy
+•	Established the LAUSD hall of fame of 2,000+ alumni by implementing a web form using HTML, CSS, and PHP to input data into a SQL Server database
 
-## EXPERIENCE
-**Software Engineer**: Company | City, State ... *Month 20XX - Present*
-* Implemented XYZ Microservice using TECHNOLOGY to delivery PRODUCT to 123 Customers Globally
-* Architected CORE INFRASTRUCTURE LIBRARY used across X teams to BLAH BLAH
-* I did X for Y to accomplish Z
-* ...
+Academic Projects	
+--------------------------------------------------------
+Sorting Algorithm Visualizer/Timer	July 2020 – July 2020
+•	Created an app to visualize/time merge, heap, quick, bubble, selection, and insertion sort
+•	Developed a data table to compare the run times of algorithms depending on sample size
+•	Technologies: React, JavaScript
 
-**Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
-* Conducted A/B Test using FRAMEWORK to test EXPERIENCE in order to increase METRIC resulting in NUMBER. 
-* Utilized DEBUG TECHNOLOGY to resolve recurring crashes (X% of sessions) in beta before hitting production..
-* ...
+NASA Images	Jun 2020 – July 2020
+•	Created a MERN stack application to cleanly display image archives from NASA’s Astronomy Photo of the Day and Mars Rover API
+•	Implemented a membership feature using MongoDB to allow users to save images to a list
+•	Technologies: React, MongoDB, Express, NodeJS, AWS
 
-## PROJECTS
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Developed PROJECT NAME in order to FEATURE solving PROBLEM for POPULATION
-* Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
-* Beta Tested to X Number of users and collected Crash Data using analytics LIBRARY
-* ...
-
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Contributed to OPEN SOURCE LIBRARY, a popular module for FEATURE, by closing X tasks and merging Y Pull Requests.
-* Created Demo Tutorial series to demonstrate FEATURE for early adopters prior to production push.
-* Managed App Version release cycles to maintain proper software versioning for major and minor app increments.
-* ...
-
-## AWARDS/ACKNOWLEDGEMENTS
-* **COLLEGE Alumni Scholarship Recipient** - Alumni Scholarship Committee... *Month 20XX*
-* **1st Place Best Hack** - Hackathon Event... *Month 20XX*
-
-## Events/Conferences
-* **Cal Hacks 7.0 (remote)** - Berkeley, CA ... *Month 20XX*
-* **Cal Hacks 6.0** - Berkeley, CA ... *Month 20XX*
-* **WWDC 2019** - San Jose, CA ... *Month 20XX*
+Smart Aquarium	Aug 2019 – Dec 2019
+•	Sponsored by Nuhzdin Lab at USC to build a system of tanks to simulate ocean conditions
+•	Collaborated with three teammates to develop an Arduino monitoring system to ensure that tank conditions will prolong the lifespan of kelp samples from 3 hours to 3 days
+•	Created a website on Losant IoT to display current data by using Java and a webhook
+•	Technologies: C/C++, Java, Arduino, Losant IoT
