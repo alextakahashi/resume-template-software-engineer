@@ -1,49 +1,51 @@
-# Alex Takahashi
+# RAHIL SHAH
 
-(123) 456 - 7890 | email@gmail.com
+(647) 972 - 0150 | rahil190@gmail.com
 
-alextakahashi.github.io | github.com/alextakahashi | inkedin.com/in/alextakahashi/
+rahil.me | linkedin.com/in/rahilllshah
+
 
 ## EDUCATION
-**University of California Berkeley** | B.S. Bioengineering, Computer Science Minor ... *May 2017*
-* **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
+**McMaster University** | BS Computer Science ... *Jun '22*
+
 
 ## SKILLS
-* **Languages**: Python, Java, C, SQL, ...
-* **Libraries/Frameworks**: Pandas, TensorFlow, PyTorch, ...
-* **Version Control**: Git, Bitbucket, Sourcetree, GithubDesktop
-* *...*
+* **Design & Prototyping**: Adobe CC Software, Figma,  InVision, Sketch, Visual design, interaction design, responsive design, prototyping, user-centered design, usability testing
+* **Development**: HTML, CSS, JavaScript, Java, C, Python, SQL, Git
+* **Soft Skills**: Communication, organization, leadership, problem-solver, strong work ethic, responsible
+
 
 ## EXPERIENCE
-**Software Engineer**: Company | City, State ... *Month 20XX - Present*
-* Implemented XYZ Microservice using TECHNOLOGY to delivery PRODUCT to 123 Customers Globally
-* Architected CORE INFRASTRUCTURE LIBRARY used across X teams to BLAH BLAH
-* I did X for Y to accomplish Z
-* ...
+**Product Designer**: CanTrace | *Apr '20 - Aug '20*
+* Designed and presented a distinguished app integrating healthcare and contact tracing technology to the provincial and federal government of Canada
+* Designed flows, developed product strategy and continually solicited feedback to improve app
 
-**Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
-* Conducted A/B Test using FRAMEWORK to test EXPERIENCE in order to increase METRIC resulting in NUMBER. 
-* Utilized DEBUG TECHNOLOGY to resolve recurring crashes (X% of sessions) in beta before hitting production..
-* ...
+**Front-End Developer**: Schulich School of Medicine & Dentistry | *Jan '19 - Present*
+* Work with the nephrology division teaching faculty to develop several facets of their websites and applications which has led to the recruitment of many highly qualified personnel
+
+**Web Design Intern**: Nova Solutions | *May '19 - Aug '19*
+* Designed and developed mockups, web pages for 3-5 clients per week using Adobe CC Software and web development tools totaling 30+ projects
+* Worked with company executives on high-level strategic decisions that increased company website engagement by 27%
+
+## EXTRACURRICULARS
+**Co-Director**: DeltaHacks | *Mar '20 - Present*
+* Manage a cross-functional team of 50+ members in organizing Canada’s second largest hackathon, attended by 800+ participants from across North America
+* Oversee and evaluate operation in accordance with the short-term and long-term vision
+* Understand and communicate swiftly while staying calm in stressful situations
+
+**Product Design Lead**: DeltaHacks | *May '19 - Feb '20*
+
 
 ## PROJECTS
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Developed PROJECT NAME in order to FEATURE solving PROBLEM for POPULATION
-* Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
-* Beta Tested to X Number of users and collected Crash Data using analytics LIBRARY
-* ...
+**Personal Website**
+* Developed from scratch, improving it periodically through past 5 years using web development tools
 
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Contributed to OPEN SOURCE LIBRARY, a popular module for FEATURE, by closing X tasks and merging Y Pull Requests.
-* Created Demo Tutorial series to demonstrate FEATURE for early adopters prior to production push.
-* Managed App Version release cycles to maintain proper software versioning for major and minor app increments.
-* ...
+**Instagram Redesign**
+* Reimagined Instagram UI/UX with enhanced features, layout and navigation logistics
 
-## AWARDS/ACKNOWLEDGEMENTS
-* **COLLEGE Alumni Scholarship Recipient** - Alumni Scholarship Committee... *Month 20XX*
-* **1st Place Best Hack** - Hackathon Event... *Month 20XX*
+## COMPETITIONS
+* **McMaster University** - 3-Minute Thesis, Top 20 Finalist
+* **BMO & The Learning Partnership** - Business Venture, Top 8 Finalist
 
-## Events/Conferences
-* **Cal Hacks 7.0 (remote)** - Berkeley, CA ... *Month 20XX*
-* **Cal Hacks 6.0** - Berkeley, CA ... *Month 20XX*
-* **WWDC 2019** - San Jose, CA ... *Month 20XX*
+## HOBBIES & INTERESTS
+* Design & Development, Hockey, Soccer, Volunteering, Traveling, Music=
