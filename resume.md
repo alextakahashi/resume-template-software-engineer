@@ -1,49 +1,57 @@
-# FIRST LAST NAME
+# Jacqueline Li
+(Canadian citizen with F1 Visa)
 
-(123) 456 - 7890 | email@gmail.com
-
-www.website.com | github.com/myusername | linkedin.com/myusername
+(123) 456 - 7890 | email@gmail.com | linkedin.com/myusername | github.com/myusername
 
 ## EDUCATION
-**University of College** | B.S. Degree ... *MONTH 20XX*
-* **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
+**University of California, Berkeley** | BA in Computer Science, Expected Graduation *DEC 2020*
+* **Coursework**:
+Visualization for Design
+The Structure and Interpretation of Computer Programs
+Data Structures
+Information Devices and Systems
+Discrete Mathematics and Probability Theory
+Computer Architecture
+Introduction to Artificial Intelligence
+Computer Security
+Computational Models of Cognition
+Operating Systems and System Programming
+Efficient Algorithms and Intractable Problems
 
 ## SKILLS
-* **Languages**: Python, Java, C, SQL, ...
-* **Libraries/Frameworks**: Pandas, TensorFlow, PyTorch, ...
-* **Version Control**: Git, Bitbucket, Sourcetree, GithubDesktop
-* *...*
+* **Languages**: Python ■ Java ■ C ■ SQL ■ LaTeX ■ Go ■ RISC-V ■ Scheme ■ LISP
+* **Version Control**: Git
 
 ## EXPERIENCE
-**Software Engineer**: Company | City, State ... *Month 20XX - Present*
-* Implemented XYZ Microservice using TECHNOLOGY to delivery PRODUCT to 123 Customers Globally
-* Architected CORE INFRASTRUCTURE LIBRARY used across X teams to BLAH BLAH
-* I did X for Y to accomplish Z
-* ...
+**Lab Assistant for Introduction to Computer Science**: UC Berkeley | Berkeley, CA *Jan 2018 - May 2018*
+* Guide class of 35 students learning Snap! and Python during 2 hour biweekly labs.
 
-**Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
-* Conducted A/B Test using FRAMEWORK to test EXPERIENCE in order to increase METRIC resulting in NUMBER. 
-* Utilized DEBUG TECHNOLOGY to resolve recurring crashes (X% of sessions) in beta before hitting production..
-* ...
+**Robot Master**: Covariant.ai | Berkeley, CA *Mar 2018 - Jun 2019*
+(Covariant.ai is a startup founded by UC Berkeley professor Pieter Abbeel and three UC Berkeley alumni.)
+* Train artificially intelligent robots to grasp, sort, fold, and place different types of objects.
+* Analyze robots’ performance using innovative tools such as home security monitors and spray paint.
+
+**Design Intern**: Method Inc. | New York, NY *Jan 2020*
+* Work in group of two to design ways to present case studies and job requirements.
+* Formulate concepts for illustrations to accompany technology articles.
+
+**Computer Science Tutor** Self | Berkeley, CA  *Nov 2019 - Present*
+* Help students taking computer science courses at UC Berkeley with coding assignments.
+
+**Backend Engineer Lead** Medisend | Berkeley, CA — *Jun 2020 - Present*
+* Lead team of four backend interns at startup to make mobile application for delivering prescription and OTC medicine.
+
 
 ## PROJECTS
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Developed PROJECT NAME in order to FEATURE solving PROBLEM for POPULATION
-* Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
-* Beta Tested to X Number of users and collected Crash Data using analytics LIBRARY
-* ...
 
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Contributed to OPEN SOURCE LIBRARY, a popular module for FEATURE, by closing X tasks and merging Y Pull Requests.
-* Created Demo Tutorial series to demonstrate FEATURE for early adopters prior to production push.
-* Managed App Version release cycles to maintain proper software versioning for major and minor app increments.
-* ...
+**Pintos**: *Work in group of four to improve skeleton of PintOS to support file system, thread scheduler and user programs.* *Jan 2020 - May 2020*
+* Work with large codebase in the C language, using Git for version control between four group members
+* Notable subset of improvements to skeleton: syscalls, write-back cache
 
-## AWARDS/ACKNOWLEDGEMENTS
-* **COLLEGE Alumni Scholarship Recipient** - Alumni Scholarship Committee... *Month 20XX*
-* **1st Place Best Hack** - Hackathon Event... *Month 20XX*
+**Pacman**:  *Work in team of two to build artificially intelligent agents in Pacman.* *Aug 2019 - Dec 2019*
+* Practice peer programming in team of two
+* Notable subset of implementations: search, reinforcement learning, inference algorithms
 
-## Events/Conferences
-* **Cal Hacks 7.0 (remote)** - Berkeley, CA ... *Month 20XX*
-* **Cal Hacks 6.0** - Berkeley, CA ... *Month 20XX*
-* **WWDC 2019** - San Jose, CA ... *Month 20XX*
+**Encrypted File Sharing System**: *Work in team of two to implement a multi-user file sharing system with confidentiality, integrity, and authenticity guarantees.* *Oct 2019*
+* Use the Go language and design system from scratch
+* Utilize RSA, HMAC, and Argon2 in our implementation
