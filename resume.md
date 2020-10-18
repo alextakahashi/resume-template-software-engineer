@@ -1,47 +1,49 @@
-# Kelly Ma
+# FIRST LAST NAME
 
-(510) 599 - 0540 | kellyma@berkeley.edu
+(123) 456 - 7890 | email@gmail.com
 
-https://kelly2135ma.wixsite.com/mysite | https://www.linkedin.com/in/kelly-ma-2a1172174/
+www.website.com | github.com/myusername | linkedin.com/myusername
 
 ## EDUCATION
-**Galileo Academy** | *June 2020*
-**University of College** | B.S. Degree ... *May 2024*
-* **GPA**:4.0 | 
-* **Coursework**: Introduction to Programming Data Science Foundations, Linear Algebra.
+**University of College** | B.S. Degree ... *MONTH 20XX*
+* **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
 
 ## SKILLS
-* **Languages**: Python
-* **Design**: Figma, Adobe Illustrator, Procreate, Photoshop, Final Cut Pro
+* **Languages**: Python, Java, C, SQL, ...
+* **Libraries/Frameworks**: Pandas, TensorFlow, PyTorch, ...
+* **Version Control**: Git, Bitbucket, Sourcetree, GithubDesktop
 * *...*
 
 ## EXPERIENCE
-**Graphic Designer**: Innovative Design | Berkeley CA *Aug 2020 - Present*
-*	Created stylescapes in a branding project
-*	designed product mockups for small businesses
+**Software Engineer**: Company | City, State ... *Month 20XX - Present*
+* Implemented XYZ Microservice using TECHNOLOGY to delivery PRODUCT to 123 Customers Globally
+* Architected CORE INFRASTRUCTURE LIBRARY used across X teams to BLAH BLAH
+* I did X for Y to accomplish Z
+* ...
 
-**Design Coordinator**: Associated Students of the University of California | Berkeley CA *August 2020 - Present*
-*	Created the ASUC brand book for design
-*	In the process of designing ASUC merch
+**Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
+* Conducted A/B Test using FRAMEWORK to test EXPERIENCE in order to increase METRIC resulting in NUMBER. 
+* Utilized DEBUG TECHNOLOGY to resolve recurring crashes (X% of sessions) in beta before hitting production..
+* ...
 
-**Co-Founder**: CreAItivity | Bay Area CA *Jul 2019 - Present*
-* Youth-led non-profit seeking to educate underrepresented youth about AI
-*	Hosted a COVID-19 Challenge, 5 AI related workshops, and published 2 issues of tech-zines
-* (https://www.creaitivity.org/)
+## PROJECTS
+**Project Name**: *Brief Description of Project* ... *Month 20XX - Month 20XX*
+* Developed PROJECT NAME in order to FEATURE solving PROBLEM for POPULATION
+* Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
+* Beta Tested to X Number of users and collected Crash Data using analytics LIBRARY
+* ...
 
-**Public Health Researcher**: ING (startup) | San Francisco CA *August 2020 - Present*
-*	Researched and evaluated 800 Bay Area restaurants with ING’s healthy criteria
-*	Constructed the data library of evaluated restaurants and updated the ING criteria list
-
-**Illustration Artist**: "Made in Chinatown" Exhibit | San Francisco CA *Dec 2019 - Apr 2020*
-*	Created 30 digital illustrations for promoting small businesses in San Francisco Chinatown
-*	Designed stickers, postcards and social media posts for the exhibit
-* (https://www.41ross.org/past)
-
-**Teaching Assistant**: AI4ALL @ UC Berkeley | Berkeley CA *Aug 2020 - Aug 2020*
-*	Assisted Lawrence Hall staff to host the virtual program for educating 30 high school students about AI
-*	Guided students in group project with applications of reinforcement learning and testing training models
+**Project Name**: *Brief Description of Project* ... *Month 20XX - Month 20XX*
+* Contributed to OPEN SOURCE LIBRARY, a popular module for FEATURE, by closing X tasks and merging Y Pull Requests.
+* Created Demo Tutorial series to demonstrate FEATURE for early adopters prior to production push.
+* Managed App Version release cycles to maintain proper software versioning for major and minor app increments.
+* ...
 
 ## AWARDS/ACKNOWLEDGEMENTS
-* **2020 American Chemistry Society Scholar** - ACS *Aug 2020*
-* **Valedictorian** - Galileo Academy *Jun 2020*
+* **COLLEGE Alumni Scholarship Recipient** - Alumni Scholarship Committee... *Month 20XX*
+* **1st Place Best Hack** - Hackathon Event... *Month 20XX*
+
+## Events/Conferences
+* **Cal Hacks 7.0 (remote)** - Berkeley, CA ... *Month 20XX*
+* **Cal Hacks 6.0** - Berkeley, CA ... *Month 20XX*
+* **WWDC 2019** - San Jose, CA ... *Month 20XX*
