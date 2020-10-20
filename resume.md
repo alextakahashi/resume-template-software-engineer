@@ -1,53 +1,48 @@
-* # JOSHUA FAJARDO
+# JOSHUA FAJARDO
 
-  (123) 456 - 789| email@gmail.com
+(123) 456 - 789| email@gmail.com
 
-  joshuafajardo.com | github.com/joshuafajardo | linkedin.com/joshuafajardo
+joshuafajardo.com | github.com/joshuafajardo | linkedin.com/joshuafajardo
 
-  ## EDUCATION
+## EDUCATION
 
-  **University of California, Berkeley** | B.S. Electrical Engineering & Computer Sciences | GPA: 3.71 ... *FALL 2021*
+**University of California, Berkeley** | B.S. Electrical Engineering & Computer Sciences | GPA: 3.71 ... *FALL 2021*
 
-  * **Coursework**: Data Structures, Algorithms, Machine Structures, Statistics & Probability, Linear Algebra, Multivariable Calculus, Optimization,
+* **Coursework**: Data Structures, Algorithms, Machine Structures, Statistics & Probability, Linear Algebra, Multivariable Calculus, Optimization,
 
-  ## SKILLS
+## SKILLS
 
-  * **Languages**: Python, Java, C, SQL, JavaScript, HTML, CSS, MATLAB, Arduino,
-  * **Frameworks and Tools**: ReactJS, Threading, Git, NumPy, Socket, Socket.IO, Tkinter,
+* **Languages**: Python, Java, C, SQL, JavaScript, HTML, CSS, MATLAB, Arduino,
+* **Frameworks and Tools**: ReactJS, TCP/IP, Threading, Git, NumPy, Socket, Socket.IO, Tkinter,
 
-  ## EXPERIENCE
+## EXPERIENCE
 
-  **Undergraduate Researcher, Software/Hardware**: Embodied Dexterity Group| Berkeley, CA ... *November 2019 - Present*
+**Undergraduate Researcher, Software/Hardware**: Embodied Dexterity Group| Berkeley, CA ... *November 2019 - Present*
 
-  * Led team of 3 in designing a physics engine and GUI in Python to interface with a prosthetic arm. Incorporated the Model/View/Controller (MVC) design pattern to organize functions and methods.
-  * Established TCP connection with LabVIEW program using Python's socket library to ensure the simulation was sufficiently accurate for use in research.
-  * Utilized multithreading to run communication/physics and GUI processing in parallel, allowing the GUI to run at a consistent framerate.
+* Led team of 3 in designing a physics engine and GUI in Python to interface with a prosthetic arm. Incorporated the Model/View/Controller (MVC) design pattern to organize functions and methods.
+* Established TCP connection with LabVIEW program using Python's socket library to ensure the simulation was sufficiently accurate for use in research.
+* Utilized multithreading to run communication/physics and GUI processing in parallel, allowing the GUI to run at a consistent framerate.
 
-  **Lead Machinist**: FIRST Robotics Competition Team 687 | Carson, CA ... *June 2015 - May 2018*
+**Lead Machinist**: FIRST Robotics Competition Team 687 | Carson, CA ... *June 2015 - May 2018*
 
-  * Trained members on G-Code programming and proper manufacturing techniques to help them grow as engineers.
-  * Improved organization methods to streamline the machining process and increase team communication for faster production times.
+* Trained members on G-Code programming and proper manufacturing techniques to help them grow as engineers.
+* Improved organization methods to streamline the machining process and increase team communication for faster production times.
 
-  ## PROJECTS
+## PROJECTS
 
-  **Heal-Bot**: *The Quarantine Companion & Aide* | heal-bot.netlify.app ... *June 2020*
+**Heal-Bot**: *The Quarantine Companion & Aide* | heal-bot.netlify.app ... *June 2020*
 
-  * Developed Heal-Bot in order to provide pandemic information and support, tackling many of the lifestyle changes for those in quarantine.
-  * Made API calls to wit.ai to seamlessly interpret human responses.
-  * Worked on Full Stack development to deploy Heal-Bot to the web using Netlify and Heroku.
-  * 
-  * Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
-  * Beta Tested to X Number of users and collected Crash Data using analytics LIBRARY
-  * ...
+* Developed Heal-Bot in order to provide pandemic information and support, tackling many of the lifestyle changes for those in quarantine.
+* Worked on Full Stack development to deploy Heal-Bot to the web using Netlify and Heroku.
+* Planning on integrating analytical tools to monitor monthly user activity and effectiveness of natural language processing.
 
-  **Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
+**RSA-Encrypted Chat Application**: *Protecting the Integrity of Private Messaging* | tinyurl.com/RSA-Messaging ... *April 2020*
 
-  * Contributed to OPEN SOURCE LIBRARY, a popular module for FEATURE, by closing X tasks and merging Y Pull Requests.
-  * Created Demo Tutorial series to demonstrate FEATURE for early adopters prior to production push.
-  * Managed App Version release cycles to maintain proper software versioning for major and minor app increments.
-  * ...
+  * Built a chat application incorporating RSA encryption to allow others to securely send messages across the internet.
+  * Implemented multithreading to allow users to simultaneously enter commands while receiving messages.
+  * Utilized Python's socket library to incorporate TCP/IP, preventing most message loss and errors.
 
-  ## Events/Conferences
+## Events/Conferences
 
-  * **Facebook Hackathon: AI** - Online ... *June 2020*
-  * **Cal Hacks 6.0** - Berkeley, CA ... *October 2019*
+* **Facebook Hackathon: AI** - Online ... *June 2020*
+* **Cal Hacks 6.0** - Berkeley, CA ... *October 2019*
