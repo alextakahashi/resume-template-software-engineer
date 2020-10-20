@@ -20,8 +20,8 @@ joshuafajardo.com | github.com/joshuafajardo | linkedin.com/joshuafajardo
 **Undergraduate Researcher, Software/Hardware**: Embodied Dexterity Group| Berkeley, CA ... *November 2019 - Present*
 
 * Led team of 3 in designing a physics engine and GUI in Python to interface with a prosthetic arm. Incorporated the Model/View/Controller (MVC) design pattern to organize functions and methods.
-* Established TCP connection with LabVIEW program using Python's socket library to ensure the simulation was sufficiently accurate for use in research.
-* Utilized multithreading to run communication/physics and GUI processing in parallel, allowing the GUI to run at a consistent framerate.
+* Established TCP connection with LabVIEW program using Python's socket library to ensure the simulation data was sufficiently accurate for use in research.
+* Utilized multithreading to run communication/physics and GUI processing in parallel, allowing the GUI to refresh at a consistent framerate.
 
 **Lead Machinist**: FIRST Robotics Competition Team 687 | Carson, CA ... *June 2015 - May 2018*
 
@@ -40,7 +40,7 @@ joshuafajardo.com | github.com/joshuafajardo | linkedin.com/joshuafajardo
 
   * Built a chat application incorporating RSA encryption to allow others to securely send messages across the internet.
   * Implemented multithreading to allow users to simultaneously enter commands while receiving messages.
-  * Utilized Python's socket library to incorporate TCP/IP, preventing most message loss and errors.
+  * Utilized Python's socket library to allow communication via TCP/IP, preventing most message loss and errors.
 
 ## Events/Conferences
 
