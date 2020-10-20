@@ -36,7 +36,7 @@ joshuafajardo.com | github.com/joshuafajardo | linkedin.com/joshuafajardo
 * Worked on Full Stack development to deploy Heal-Bot to the web using Netlify and Heroku.
 * Planning on integrating analytical tools to monitor monthly user activity and effectiveness of natural language processing.
 
-**RSA-Encrypted Chat Application**: *Protecting the Integrity of Private Messaging* | tinyurl.com/RSA-Messaging ... *April 2020*
+**RSA-Encrypted Chat Application**: *Truly Private Messaging* | tinyurl.com/RSA-Messaging ... *April 2020*
 
   * Built a chat application incorporating RSA encryption to allow others to securely send messages across the internet.
   * Implemented multithreading to allow users to simultaneously enter commands while receiving messages.
