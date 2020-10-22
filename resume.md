@@ -44,5 +44,6 @@ joshuafajardo.com | github.com/joshuafajardo | linkedin.com/joshuafajardo
 
 ## Events/Conferences
 
+* **Hackrithmitic** - Online ... *October 2020*
 * **Facebook Hackathon: AI** - Online ... *June 2020*
 * **Cal Hacks 6.0** - Berkeley, CA ... *October 2019*
