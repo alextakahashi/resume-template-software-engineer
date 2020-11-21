@@ -1,49 +1,34 @@
-# FIRST LAST NAME
+# Niharika Desaraju 
 
 (123) 456 - 7890 | email@gmail.com
 
-www.website.com | github.com/myusername | linkedin.com/myusername
+github.com/ndesaraju | linkedin.com/in/niharika-desaraju
 
 ## EDUCATION
-**University of College** | B.S. Degree ... *MONTH 20XX*
-* **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
+**University of California, Berkeley** | B.S. Bioengineering, Minor Computer Science May 2021
+* **Coursework**: Data Structures, Algorithms, Machine Learning, Discrete Math, Probability, Computational Biology, Databases, Computer Architecture, Computer Security.
 
 ## SKILLS
-* **Languages**: Python, Java, C, SQL, ...
-* **Libraries/Frameworks**: Pandas, TensorFlow, PyTorch, ...
-* **Version Control**: Git, Bitbucket, Sourcetree, GithubDesktop
+* **Languages**: Python, Java, C, SQL, Swift
+* **Libraries/Frameworks**: Pandas, TensorFlow, RESTful APIs, Node.JS, Flask, Numpy, HealthKit, ResearchKit
+* **Version Control**: Git
 * *...*
 
 ## EXPERIENCE
-**Software Engineer**: Company | City, State ... *Month 20XX - Present*
-* Implemented XYZ Microservice using TECHNOLOGY to delivery PRODUCT to 123 Customers Globally
-* Architected CORE INFRASTRUCTURE LIBRARY used across X teams to BLAH BLAH
-* I did X for Y to accomplish Z
-* ...
+**Research Intern**: UCSF - Henry Roland Laboratory | August 2018-Present
+* ● Built a secure Apache HTTPS Server to create a dynamic web application for physicians and researchers to query for and visualize volumetric data.
+* ● Utilized Google Compute Instances to construct a high performance computing infrastructure  to process over 7,000 C2-C3 and C3-C4 PSIR images collected from clinical trials. This pipeline segments the spinal cord and extracts volumetric data that will be used to examine  the correlation between spinal cord volume and progression of MS.
+* ● Developed a Docker image to run Neeb, a tool that extracts maps of water and myelin content in the brain, on T1 MRI images from clinical trial. Utilized image to build a Flywheel gear, creating an automated pipeline to run this data standardizing protocol on uploaded scans.
+* ● Trained a convolutional neural network on patient T1 MRI scans to produce accurate brain stem binary masks; a technique crucial for precise volumetric analysis of neurodegeneration in Multiple Sclerosis (MS) patients.
 
-**Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
-* Conducted A/B Test using FRAMEWORK to test EXPERIENCE in order to increase METRIC resulting in NUMBER. 
-* Utilized DEBUG TECHNOLOGY to resolve recurring crashes (X% of sessions) in beta before hitting production..
-* ...
+**Research Intern**: Berkeley Institute of Data Science | August 2018 - May 2019
+*Developed a pipeline to parse ~3000 DNA enhancer sequences of 25 different species of Drosophila and output a data frame organizing the motif sequences of interest. Packaged the pipeline as a command-line tool.
 
 ## PROJECTS
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Developed PROJECT NAME in order to FEATURE solving PROBLEM for POPULATION
-* Launched PROJECT NAME to the Apple App Store resulting in X Downloads and Y Monthly Users
-* Beta Tested to X Number of users and collected Crash Data using analytics LIBRARY
-* ...
-
-**Project Name**: *Brief One Liner TL;DR* | tinyurl ... *Month 20XX - Month 20XX*
-* Contributed to OPEN SOURCE LIBRARY, a popular module for FEATURE, by closing X tasks and merging Y Pull Requests.
-* Created Demo Tutorial series to demonstrate FEATURE for early adopters prior to production push.
-* Managed App Version release cycles to maintain proper software versioning for major and minor app increments.
-* ...
+**
 
 ## AWARDS/ACKNOWLEDGEMENTS
-* **COLLEGE Alumni Scholarship Recipient** - Alumni Scholarship Committee... *Month 20XX*
-* **1st Place Best Hack** - Hackathon Event... *Month 20XX*
+* **3rd Place, iHackHealthAppathon** - October 2019 - Collaborated with UCSF physician and utilized iOS Frameworks like HealthKit and ResearchKit to develop an iOS app for parents with children suffering from Pediatric Pancreatitis which provides resources, a symptom tracker, and real-time communication with primary care physicians. 
 
 ## Events/Conferences
-* **Cal Hacks 7.0 (remote)** - Berkeley, CA ... *Month 20XX*
-* **Cal Hacks 6.0** - Berkeley, CA ... *Month 20XX*
-* **WWDC 2019** - San Jose, CA ... *Month 20XX*
+**
