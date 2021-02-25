@@ -1,17 +1,17 @@
-# FIRST LAST NAME
+# Adithya Kumar
 
-(123) 456 - 7890 | email@gmail.com
+(512) 660 - 1911 | adithya.shak.kumar@gmail.com
 
-www.website.com | github.com/myusername | linkedin.com/myusername
+github.com/shakstzy | https://www.linkedin.com/in/adithyashakthikumar/
 
 ## EDUCATION
-**University of College** | B.S. Degree ... *MONTH 20XX*
+University of California, Berkeley | B.S. Electrical Engineering & Computer Science + Business ... *May 2023*
 * **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
 
 ## SKILLS
-* **Languages**: Python, Java, C, SQL, ...
-* **Libraries/Frameworks**: Pandas, TensorFlow, PyTorch, ...
-* **Version Control**: Git, Bitbucket, Sourcetree, GithubDesktop
+* **Languages**: Python, Java, C++, SQL, Javascript, HTML, CSS
+* **Libraries/Frameworks**: React, TensorFlow, PyTorch
+* **Version Control**: Git, GithubDesktop
 * *...*
 
 ## EXPERIENCE
