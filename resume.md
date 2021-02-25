@@ -47,12 +47,6 @@ University of California, Berkeley | B.S. Electrical Engineering & Computer Scie
 * Constructed an onboard continuous 3-lead electrode system (to facilitate electrocardiography)
 * Prototyped a medically accurate (+- 3 BPM) photoplethysmography system for under one dollar
 
-**gymCNN**: *Convolutional Neural Net to Track Exercise Efficacy* | *Sep 2018 – Dec 2018*
-* Used a computer vision approach to creating a novel solution to track exercise at the gym
-* Was in charge of the programming aspect and have
-* Developed a skeleton pose approximation convolutional neural network, a hand position recognition program, and a facial identification convolutional neural network
-* Worked in tandem with two PhD students
-
 ## AWARDS/ACKNOWLEDGEMENTS
 * Six Time consecutive Austin Regional Science Festival and Texas State Science and Engineering Fair Winner ... *2014-2020*
 * One of 25 projects internationally selected to present at SciPy conference for stereoscopic algorithm development ... *2019*
