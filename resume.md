@@ -6,7 +6,7 @@ github.com/shakstzy | https://www.linkedin.com/in/adithyashakthikumar/
 
 ## EDUCATION
 University of California, Berkeley | B.S. Electrical Engineering & Computer Science + Business ... *May 2023*
-* **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
+* **Coursework**: Data Structures, Algorithms,Structure and Interpretation of Computer Programs, Multivariable Calculus, Probability and Statistics
 
 ## SKILLS
 * **Languages**: Python, Java, C++, SQL, Javascript, HTML, CSS
@@ -40,10 +40,5 @@ University of California, Berkeley | B.S. Electrical Engineering & Computer Scie
 * ...
 
 ## AWARDS/ACKNOWLEDGEMENTS
-* **COLLEGE Alumni Scholarship Recipient** - Alumni Scholarship Committee... *Month 20XX*
-* **1st Place Best Hack** - Hackathon Event... *Month 20XX*
-
-## Events/Conferences
-* **Cal Hacks 7.0 (remote)** - Berkeley, CA ... *Month 20XX*
-* **Cal Hacks 6.0** - Berkeley, CA ... *Month 20XX*
-* **WWDC 2019** - San Jose, CA ... *Month 20XX*
+* Six Time consecutive Austin Regional Science Festival and Texas State Science and Engineering Fair Winner ... *2014-2020*
+* One of 25 projects internationally selected to present at SciPy conference for stereoscopic algorithm development ... *2019*
