@@ -1,12 +1,12 @@
-# FIRST LAST NAME
+# MAANAV KHAITAN
 
-(123) 456 - 7890 | email@gmail.com
+(519) XXX - XXXX | maanav@berkeley.edu
 
-www.website.com | github.com/myusername | linkedin.com/myusername
+github.com/MaanavKhaitan | linkedin.com/in/maanav-khaitan
 
 ## EDUCATION
-**University of College** | B.S. Degree ... *MONTH 20XX*
-* **Coursework**: Data Structures, Algorithms, Upper Division CS Elective, Math Course, Statistics, Data Science, ETC.
+**UC Berkeley - Management, Entrepreneurship, & Technology Program** | Dual Degree: B.S. Electrical Engineering & Computer Science + B.S. Business Administration. *May 2024*
+* **Coursework**: Data Structures, Structure and Interpretation of Computer Programs, Designing Information Devices and Systems I & II
 
 ## SKILLS
 * **Languages**: Python, Java, C, SQL, ...
