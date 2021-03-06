@@ -1,6 +1,6 @@
 # MAANAV KHAITAN
 
-(519) XXX - XXXX | maanav@berkeley.edu
+(510) XXX - XXXX | maanav@berkeley.edu
 
 github.com/MaanavKhaitan | linkedin.com/in/maanav-khaitan
 
@@ -9,21 +9,21 @@ github.com/MaanavKhaitan | linkedin.com/in/maanav-khaitan
 * **Coursework**: Data Structures, Structure and Interpretation of Computer Programs, Designing Information Devices and Systems I & II
 
 ## SKILLS
-* **Languages**: Python, Java, C, SQL, ...
-* **Libraries/Frameworks**: Pandas, TensorFlow, PyTorch, ...
-* **Version Control**: Git, Bitbucket, Sourcetree, GithubDesktop
+* **Languages**: Python, Java, JavaScript, Swift, SQL, R
+* **Libraries/Frameworks**: React, Pandas, NumPy, MongoDB, Next.js, jQuery, Flask, Scikit-Learn
+* **Version Control**: Git, GithubDesktop
 * *...*
 
 ## EXPERIENCE
-**Software Engineer**: Company | City, State ... *Month 20XX - Present*
-* Implemented XYZ Microservice using TECHNOLOGY to delivery PRODUCT to 123 Customers Globally
-* Architected CORE INFRASTRUCTURE LIBRARY used across X teams to BLAH BLAH
-* I did X for Y to accomplish Z
+**Product Engineer Intern**: Edith Labs | Cupertino, California *September 2020 - Present*
+* Developed full-stack web app to connect students and mentors, in JavaScript, React, Next.js, HTML, CSS, and MongoDB.
+* Refactored data fetching using SWR hooks and spearheaded Ask a Question feature, boosting user engagement by 25%.
+* Created user stories and conducted A/B hypothesis tests to revamp mentor onboarding experience.
 * ...
 
-**Software Engineer Intern**: Company | City, State ... *Month 20XX - Month 20XX*
-* Conducted A/B Test using FRAMEWORK to test EXPERIENCE in order to increase METRIC resulting in NUMBER. 
-* Utilized DEBUG TECHNOLOGY to resolve recurring crashes (X% of sessions) in beta before hitting production..
+**Data Science Intern**: T-Hub | Hyderabad, India *June 2018 - July 2018*
+* Developed machine learning model for startup admission, decreasing work hours in review process by 75%; developed using Python, Pandas, and Scikit-Learn; model implemented by T-Hub admissions team. 
+* Processed and analyzed 7000-sample dataset with 42 features and consulted for 5 T-Hub startups on product and business development, improving retention, engagement, and profitability metrics by 15%-40%.
 * ...
 
 ## PROJECTS
