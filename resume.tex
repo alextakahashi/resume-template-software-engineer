@@ -1,0 +1,237 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+\begin{center}
+\vspace*{-0.5cm}
+    {\Huge \scshape Brandon Wang} \\ \vspace{1pt}
+    \small 2002 Addison Street, Berkeley, CA 94704 \\ \vspace{4pt}
+    \footnotesize \raisebox{-0.1\height}\faPhone\ 512-940-6636 ~ \href{mailto:wangb@berkeley.edu}{\raisebox{-0.2\height}\faEnvelope\  \underline{\smash{wangb@berkeley.edu}}}~
+    \href{https://www.linkedin.com/in/brandon-m-wang}{\raisebox{-0.2\height}\faLinkedin\ \underline{LinkedIn}}  ~
+    \href{https://github.com/brandon-m-wang}{\raisebox{-0.2\height}\faGithub\ \underline{GitHub}} ~
+    \href{https://gitlab.com/brandonmwang}{\raisebox{-0.2\height}\faGitlab\ \underline{GitLab}}
+    \vspace{-8pt} ~
+    \href{http://brandonwan.gg/}{\raisebox{-0.2\height}\faSuitcase\ \underline{Portfolio}}
+    \vspace{-8pt}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\vspace{-1mm} 
+\section{Education}
+\resumeSubHeadingListStart
+    \resumeSubheading
+      {University of California, Berkeley \fontseries{m}\selectfont4.0/4.0}{Expected May 2023}
+      {Bachelor's Degree in Computer Science}{Berkeley, CA}
+\vspace{-2.25mm}
+\resumeSubHeadingListEnd
+
+%------RELEVANT COURSEWORK-------
+\section{Relevant Coursework}
+    %\resumeSubHeadingListStart
+        \begin{multicols}{4}
+            \begin{itemize}[itemsep=0pt, parsep=3pt]
+            \linespread{-0.5pt}
+            \small
+                \item Data Structures and Algorithms
+                \item Discrete Mathematics and Probability Theory
+                \item Efficient Algorithms and Intractable Problems
+                \item Full Stack Web Development
+                \item Designing Information Devices and Systems
+                \item Foundations of Data Science
+                \item Structure and Interpretation of Computer Programs
+                \item Statistics in Data Science
+            \end{itemize}
+        \end{multicols}
+    %\resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\vspace{-2.5mm}
+\section{Work Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Segmed \small\normalfont(\href{https://www.segmed.ai/}{\underline{\smash{segmed.ai}}}) -- \footnotesize Democratizing healthcare data for medical AI (YCombinator W2020)}{May 2021 -- Present}
+      {Software Engineer Intern}{Palo Alto, CA}
+      \resumeItemListStart
+        \resumeItem{Built core functionality of RESTful microservices in Golang for querying, requesting, and exporting scrubbed imaging datasets along with various API endpoints using mux HTTP router, Redis, and structured unit tests.}
+        \resumeItem{Delivered live production-level UI features including the DICOM viewer, a comprehensive usage analytics dashboard, and the regex formatter schema for cleaned datasets valued at \$200,000+ in TypeScript, Go, and Tailwind.}
+        \resumeItem{Improved data pipeline efficiency by up to 35\% at the processing stage by introducing a layered OCR model utilizing an EAST detection scheme with OpenCV and PyTesseract for the redaction of private health info.}
+        \resumeItem{Refactored PostgreSQL procedures and wrote migration scripts to reduce excess querying round-trips tenfold.}
+      \resumeItemListEnd
+
+\resumeSubheading
+      {UC Berkeley EECS \small\normalfont(\href{https://www2.eecs.berkeley.edu/Courses/CS198_4334/}{\underline{\smash{CS 198-93}}}) -- \footnotesize EECS dept.'s full stack web development decal course}{January 2021 -- Present}
+      {CS 198-93 Lecturer}{Berkeley, CA}
+      \resumeItemListStart
+        \resumeItem{Facilitated biweekly lectures, office hours, and lab sections for 100+ students with a team of teaching assistants.}
+        \resumeItem{Developed meaningful course curriculum and mini-projects on HTML/CSS/JS, vim, Git, HTTP,  Firebase, and Flask.}
+        \resumeItem{Partitioned TCP ports on an AWS EC2 instance for student cloud development on lab assignments and final projects.}
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {Cal Hacks \small\normalfont(\href{http://calhacks.io/}{\underline{\smash{calhacks.io}}}) -- \footnotesize UC Berkeley's premier hackathon and fellowship non-profit org}{August 2020 -- May 2021}
+      {Full Stack Developer}{Berkeley, CA}
+      \resumeItemListStart
+        \resumeItem{Engineered the hello:world hackathon portal with 2,000+ daily visitors including the application pipeline, event scheduler, and UI/UX in React.js, Express, TypeScript, and Python.}
+        \resumeItem{Created API endpoints and TS response handlers for data on sponsors, partners, hacker resources, and team formation.}
+        \resumeItem{Handled SQL data migrations on production database to update scoring/judging procedures for thousands of hackers.}
+    \resumeItemListEnd
+    
+  \resumeSubHeadingListEnd
+\vspace{-16pt}
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {{\textbf{contextr.io} }({\href{https://contextr.io/users/brandon}{\underline{\smash{link}}}}) $|$ \emph{A social network site from scratch for "out-of-context" moments}}{\fontseries{sb}\selectfont Stack: jQuery, Firebase, Node.js}
+          \resumeItemListStart
+            \resumeItem{A fully functioning social media suite ({\raise.17ex\hbox{$\scriptstyle\sim$}}100 users) with posting, liking, commenting, friends, themes, and a wide range of personalization built without templates}
+            \resumeItem{Complete with an intuitive front-end that organizes large amounts of user/post information efficiently and offers many interactive front-facing components like user statistics, number of likes/comments, user notifications, profile customization, and unique user profile URLS.}
+          \resumeItemListEnd
+          \vspace{-16pt}
+      \resumeProjectHeading
+          {\textbf{Graph Algos Visualizer }({\href{https://brandonwan.gg/graph-vis}{\underline{\smash{link}}}}) $|$ \emph{Visualizes algorithms as seen in CS 61B}}{\fontseries{sb}\selectfont Stack: React.js, vis.js, Graph3D}
+          \resumeItemListStart
+            \resumeItem{A visualization tool to help understand the runtime processes of the pathfinding and MST algorithms introduced in UC Berkeley's Data Structures and Algorithms course (CS 61B) on various undirected graphs.}
+            \resumeItem{Clean UI allowing users to randomize and resize the graph, select algorithms, and interact with graph nodes.}
+          \resumeItemListEnd 
+          \vspace{-16pt}
+          \resumeProjectHeading
+          {\textbf{Postmint} $|$ \emph{Automating Instagram for small businesses with DS/ML}}{\fontseries{sb}\selectfont Stack: JavaScript, sklearn, Flask}
+          \resumeItemListStart
+            \resumeItem{A platform in which user-inputted product listing image galleries automatically generate an Instagram campaign.}
+            \resumeItem{Pipeline utilizes Google Vision AI for image labelling and G Trends API with normalized search engine results via sklearn for optimized caption and hashtag generation.}
+          \resumeItemListEnd 
+    \resumeSubHeadingListEnd
+\vspace{-13pt}
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Technologies}{: Python, Java, React.js, TypeScript, Golang, PostgreSQL, TailwindCSS, Liquid, GCP/Firebase, Git} \\
+     \textbf{Wireframing and Design}{: Figma, Adobe Photoshop CC, Adobe After Effects, Vegas Pro 14} \\
+     \textbf{Project Management}{: Jira Software, Confluence, SonarCloud, GitHub, GitLab, Docker, Slack Integrations} \\
+    }}
+ \end{itemize}
+ \vspace{-16pt}
+
+
+%-----------INVOLVEMENT---------------
+\section{Awards}
+            \linespread{-0.5pt}
+            \small
+                \textbullet \- SunHacks Best DS/ML/AI Hack - \textit{Arizona State University} \textbullet \- SunHacks 1st Place Google Cloud App -- \textit{Arizona State University} \textbullet  \- HackGT Semifinalist -- \textit{Georgia Tech} \textbullet \- HackATL Top 8 Best Hack -- \textit{Emory University} \textbullet \- 1st Place Hack for Housing @ HackTX -- \textit{UT Austin} \textbullet \- VFA ME 2nd Place -- \textit{Columbia University}
+
+\end{document}
